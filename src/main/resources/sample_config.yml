@@ -1,0 +1,5 @@
+Format:
+  Chat:
+    Default: "%vault_prefix% &8| &7%player_displayname% &8» &7%message%"
+  Join: "&8[&a+&8] &7%player_displayname%&7."
+  Quit: "&8[&c-&8] &7%player_displayname%&7."

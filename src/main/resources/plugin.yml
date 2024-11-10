@@ -1,0 +1,11 @@
+name: ShadedChat
+version: '0.1.0'
+main: uk.co.tmdavies.shadedchat.ShadedChat
+api-version: '1.20'
+authors: [ Carbonate ]
+depend: [ PlaceholderAPI ]
+commands:
+  shadedchat:
+permissions:
+  shadedchat.admin:
+    default: op
